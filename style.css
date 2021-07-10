@@ -112,6 +112,7 @@ header img {
 #section-1 img {
   max-width: 100%;
 }
+
 .img-1 {
   max-width: 50%;
 }
@@ -255,11 +256,14 @@ header img {
   .titre {
     width: 80%;
   }
+
   .intro-1 {
     width: 80%;
   }
+
   .text-1 {
     max-width: 80%;
+    margin: 0;
   }
 
   .btn {
@@ -270,18 +274,21 @@ header img {
     color: white;
     margin: 10px;
   }
+
   .block-1 {
     flex-direction: column;
     align-items: center;
     text-align: center;
   }
 
-  .text-1 {
-    margin: 0;
-  }
   #section-2 {
     width: 80%;
   }
+
+  #section-5 p{
+    width: 80%;
+  }
+  
   .container {
     display: grid;
     grid-template-columns: 1, 1fr;
