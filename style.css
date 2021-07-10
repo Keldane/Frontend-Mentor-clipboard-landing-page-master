@@ -85,6 +85,7 @@ header img {
   border: none;
   color: white;
   margin: 10px;
+  cursor: pointer;
 }
 
 .btn-IOS {
@@ -193,7 +194,7 @@ header img {
 
 #section-6 {
   margin-top: 100px;
-  background-color: rgb(231, 230, 230);
+  background-color: rgb(218, 218, 218);
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -214,6 +215,7 @@ header img {
 .social img {
   width: 20px;
   height: 20px;
+  margin: 10px;
 }
 
 #section-6 ul {
