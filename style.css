@@ -285,10 +285,10 @@ header img {
     width: 80%;
   }
 
-  #section-5 p{
+  #section-5 p {
     width: 80%;
   }
-  
+
   .container {
     display: grid;
     grid-template-columns: 1, 1fr;
